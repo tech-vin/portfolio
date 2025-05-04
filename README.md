@@ -12,7 +12,8 @@ To view my most recent CV, switch to the branch:
 
 Or use the branch dropdown at the top-left of this page to select the desired month.
 
----
+- [`April 2025`](https://github.com/tech-vin/portfolio/tree/Vineet_Resume_April2025)
+- [`May 2025`](https://github.com/tech-vin/portfolio/tree/Vineet_Resume_May2025.pdf)
 
 ## 📁 Branch Structure
 
