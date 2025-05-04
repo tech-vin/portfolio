@@ -1,28 +1,28 @@
-# Vineet's Portfolio & CV Repository
+# 📄 Vineet's CV — April 2025
 
-Welcome to my portfolio repository!
+Welcome! This branch contains my updated CV for **April 2025**, created using [Overleaf](https://www.overleaf.com/).
 
-## 🔄 Monthly Updated CV
-I update my CV every month in a separate branch named after the month, following this format: `Month-Year`.
+## 📁 Files in this Branch
 
-### 📌 Latest CV — May 2025
-To view my most recent CV, switch to the branch:
-
-[`Resume May 2025`](https://github.com/tech-vin/portfolio/tree/Vineet_Resume_May2025.pdf)
-
-Or use the branch dropdown at the top-left of this page to select the desired month.
+- `Vineet_CV_April2025.pdf` — My professionally formatted resume (PDF only).
 
 ---
 
-## 📁 Branch Structure
+## 🔄 Looking for Previous or Upcoming Versions?
 
-- `main`: Contains this instruction file.
-- `Month-Year` (e.g., `April-2025`, `May-2025`, etc.): Each branch holds the CV uploaded during that month.
+Use the branch dropdown at the top-left of this page to view other months. Each branch follows the format: `Month-Year`.
 
-Feel free to explore how my profile evolves over time.
+📌 Example branches:
+- `March-2025`
+- `May-2025`
 
 ---
 
 ## 📫 Contact
 
-If you're viewing this and would like to connect or have opportunities to discuss, feel free to reach out via [LinkedIn](https://linkedin.com/in/tech-vin) or [email](mailto:code.vineetsingh@gmail.com).
+If you'd like to get in touch:
+
+- **Email**: [code.vineetsingh@gmail.com](mailto:code.vineetsingh@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/tech-vin](https://linkedin.com/in/tech-vin)
+
+Thanks for stopping by!
